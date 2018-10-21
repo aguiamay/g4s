@@ -1,0 +1,33 @@
+{
+    "sliderPrincipal" : [
+        { "nome" : "Slider 1", "img" : "../../assets/imgs/exemplos/hotdog.jpg" },
+		{ "nome" : "Slider 2", "img" : "../../assets/imgs/exemplos/cinemark.jpg" },
+		{ "nome" : "Slider 3", "img" : "../../assets/imgs/exemplos/viena.jpg" }
+    ],
+    "sliderCategorias" : [
+        {
+            "cat" : "Comida",
+            "itens" : [
+                { "nome" : "Slider 1", "img" : "../../assets/imgs/exemplos/hotdog.jpg" },
+                { "nome" : "Slider 2", "img" : "../../assets/imgs/exemplos/cinemark.jpg" },
+                { "nome" : "Slider 3", "img" : "../../assets/imgs/exemplos/viena.jpg" }
+            ]
+        },
+        {
+            "cat" : "Moda",
+            "itens" : [
+                { "nome" : "Slider 1", "img" : "../../assets/imgs/exemplos/hotdog.jpg" },
+                { "nome" : "Slider 2", "img" : "../../assets/imgs/exemplos/cinemark.jpg" },
+                { "nome" : "Slider 3", "img" : "../../assets/imgs/exemplos/viena.jpg" }
+            ]
+        },
+        {
+            "cat" : "Música",
+            "itens" : [
+                { "nome" : "Slider 1", "img" : "../../assets/imgs/exemplos/hotdog.jpg" },
+                { "nome" : "Slider 2", "img" : "../../assets/imgs/exemplos/cinemark.jpg" },
+                { "nome" : "Slider 3", "img" : "../../assets/imgs/exemplos/viena.jpg" }
+            ]
+        }
+    ]
+}

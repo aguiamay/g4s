@@ -1,8 +1,8 @@
 {
     "sliderPrincipal" : [
-        { "nome" : "Slider 1", "img" : "https://picsum.photos/300/200" },
-		{ "nome" : "Slider 2", "img" : "https://picsum.photos/300/200" },
-		{ "nome" : "Slider 3", "img" : "https://picsum.photos/300/200" }
+        { "nome" : "Slider 1", "img" : "https://picsum.photos/300/200/?random" },
+		{ "nome" : "Slider 2", "img" : "https://picsum.photos/300/200/?random" },
+		{ "nome" : "Slider 3", "img" : "https://picsum.photos/300/200/?random" }
     ],
     "sliderCategorias" : [
         {

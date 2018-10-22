@@ -1,12 +1,12 @@
 {
     "sliderPrincipal" : [
-        { "nome" : "Slider 1", "img" : "https://loremflickr.com/cache/resized/4487_37631369351_a204af46dd_h_1280_720_nofilter.jpg" },
+        { "nome" : "Slider 1", "img" : "http://www.teclasap.com.br/wp-content/uploads/2009/05/abstract-1.jpg" },
 	{ "nome" : "Slider 2", "img" : "https://loremflickr.com/cache/resized/1910_31516811488_2be9f17982_o_1280_720_nofilter.jpg" },
 	{ "nome" : "Slider 3", "img" : "https://loremflickr.com/cache/resized/885_39233506720_8433f2fd72_h_1280_720_nofilter.jpg" }
     ],
     "sliderCategorias" : [
         {
-            "cat" : "Restaurantes",
+            "cat" : "Comida",
             "itens" : [
                 { "nome" : "Slider 1", "img" : "https://loremflickr.com/cache/resized/1845_43722987164_371ca557a4_h_1280_720_nofilter.jpg" },
                 { "nome" : "Slider 2", "img" : "https://loremflickr.com/cache/resized/1740_41621210555_6a8476df7d_h_1280_720_nofilter.jpg" },
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "cat" : "Moda",
+            "cat" : "Moda Wesley",
             "itens" : [
                 { "nome" : "Slider 1", "img" : "https://loremflickr.com/cache/resized/4529_38669263582_5d8d9217e0_h_1280_720_nofilter.jpg" },
                 { "nome" : "Slider 2", "img" : "https://loremflickr.com/cache/resized/916_42835509794_011c2d5932_h_1280_720_nofilter.jpg" },

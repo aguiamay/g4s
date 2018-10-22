@@ -6,7 +6,7 @@
     ],
     "sliderCategorias" : [
         {
-            "cat" : "Comida",
+            "cat" : "Restaurantes",
             "itens" : [
                 { "nome" : "Slider 1", "img" : "../../assets/imgs/exemplos/hotdog.jpg" },
                 { "nome" : "Slider 2", "img" : "../../assets/imgs/exemplos/cinemark.jpg" },

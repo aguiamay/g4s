@@ -1,32 +1,32 @@
 {
     "sliderPrincipal" : [
-        { "nome" : "Slider 1", "img" : "https://picsum.photos/1920/1080/?image=1" },
-		{ "nome" : "Slider 2", "img" : "https://picsum.photos/1920/1080/?image=2" },
-		{ "nome" : "Slider 3", "img" : "https://picsum.photos/1920/1080/?image=3" }
+        { "nome" : "Slider 1", "img" : "https://loremflickr.com/1920/1080/food" },
+		{ "nome" : "Slider 2", "img" : "https://loremflickr.com/1920/1080/food" },
+		{ "nome" : "Slider 3", "img" : "https://loremflickr.com/1920/1080/food" }
     ],
     "sliderCategorias" : [
         {
             "cat" : "Restaurantes",
             "itens" : [
-                { "nome" : "Slider 1", "img" : "../../assets/imgs/exemplos/hotdog.jpg" },
-                { "nome" : "Slider 2", "img" : "../../assets/imgs/exemplos/cinemark.jpg" },
-                { "nome" : "Slider 3", "img" : "../../assets/imgs/exemplos/viena.jpg" }
+                { "nome" : "Slider 1", "img" : "https://loremflickr.com/1920/1080/restaurant" },
+                { "nome" : "Slider 2", "img" : "https://loremflickr.com/1920/1080/restaurant" },
+                { "nome" : "Slider 3", "img" : "https://loremflickr.com/1920/1080/restaurant" }
             ]
         },
         {
             "cat" : "Moda",
             "itens" : [
-                { "nome" : "Slider 1", "img" : "../../assets/imgs/exemplos/hotdog.jpg" },
-                { "nome" : "Slider 2", "img" : "../../assets/imgs/exemplos/cinemark.jpg" },
-                { "nome" : "Slider 3", "img" : "../../assets/imgs/exemplos/viena.jpg" }
+                { "nome" : "Slider 1", "img" : "https://loremflickr.com/1920/1080/fashion" },
+                { "nome" : "Slider 2", "img" : "https://loremflickr.com/1920/1080/fashion" },
+                { "nome" : "Slider 3", "img" : "https://loremflickr.com/1920/1080/fashion" }
             ]
         },
         {
             "cat" : "Música",
             "itens" : [
-                { "nome" : "Slider 1", "img" : "../../assets/imgs/exemplos/hotdog.jpg" },
-                { "nome" : "Slider 2", "img" : "../../assets/imgs/exemplos/cinemark.jpg" },
-                { "nome" : "Slider 3", "img" : "../../assets/imgs/exemplos/viena.jpg" }
+                { "nome" : "Slider 1", "img" : "https://loremflickr.com/1920/1080/music },
+                { "nome" : "Slider 2", "img" : "https://loremflickr.com/1920/1080/music" },
+                { "nome" : "Slider 3", "img" : "https://loremflickr.com/1920/1080/music" }
             ]
         }
     ]

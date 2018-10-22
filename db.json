@@ -24,7 +24,7 @@
         {
             "cat" : "Música",
             "itens" : [
-                { "nome" : "Slider 1", "img" : "https://loremflickr.com/1920/1080/music },
+                { "nome" : "Slider 1", "img" : "https://loremflickr.com/1920/1080/music" },
                 { "nome" : "Slider 2", "img" : "https://loremflickr.com/1920/1080/music" },
                 { "nome" : "Slider 3", "img" : "https://loremflickr.com/1920/1080/music" }
             ]

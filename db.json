@@ -1,32 +1,32 @@
 {
     "sliderPrincipal" : [
-        { "nome" : "Slider 1", "img" : "http://www.teclasap.com.br/wp-content/uploads/2009/05/abstract-1.jpg" },
-	{ "nome" : "Slider 2", "img" : "https://loremflickr.com/cache/resized/1910_31516811488_2be9f17982_o_1280_720_nofilter.jpg" },
-	{ "nome" : "Slider 3", "img" : "https://loremflickr.com/cache/resized/885_39233506720_8433f2fd72_h_1280_720_nofilter.jpg" }
+        { "nome" : "Slider 1", "img" : "https://radio93fm.com.br/wp-content/uploads/2017/10/culin%C3%A1ria-brasileira.jpg" },
+	{ "nome" : "Slider 2", "img" : "http://www.eujacomi.com.br/wp-content/uploads/2010/05/pouletvalleedauge.jpg" },
+	{ "nome" : "Slider 3", "img" : "https://www.anuncioemfoco.com.br/imagens/anuncios/120715060345/galeria_3412_0_bonsai-sushi-lounge.jpg" }
     ],
     "sliderCategorias" : [
         {
             "cat" : "Comida",
             "itens" : [
-                { "nome" : "Slider 1", "img" : "https://loremflickr.com/cache/resized/1845_43722987164_371ca557a4_h_1280_720_nofilter.jpg" },
-                { "nome" : "Slider 2", "img" : "https://loremflickr.com/cache/resized/1740_41621210555_6a8476df7d_h_1280_720_nofilter.jpg" },
-                { "nome" : "Slider 3", "img" : "https://loremflickr.com/cache/resized/1901_44222384255_034f4fcfed_h_1280_720_nofilter.jpg" }
+                { "nome" : "Slider 1", "img" : "https://www.anuncioemfoco.com.br/imagens/anuncios/120715060345/galeria_3412_0_bonsai-sushi-lounge.jpg" },
+                { "nome" : "Slider 2", "img" : "http://www.eujacomi.com.br/wp-content/uploads/2010/05/pouletvalleedauge.jpg" },
+                { "nome" : "Slider 3", "img" : "https://www.anuncioemfoco.com.br/imagens/anuncios/120715060345/galeria_3412_0_bonsai-sushi-lounge.jpg" }
             ]
         },
         {
             "cat" : "Moda Wesley",
             "itens" : [
-                { "nome" : "Slider 1", "img" : "https://loremflickr.com/cache/resized/4529_38669263582_5d8d9217e0_h_1280_720_nofilter.jpg" },
-                { "nome" : "Slider 2", "img" : "https://loremflickr.com/cache/resized/916_42835509794_011c2d5932_h_1280_720_nofilter.jpg" },
-                { "nome" : "Slider 3", "img" : "https://loremflickr.com/cache/resized/854_43672441671_83ae5d0c95_k_1280_720_nofilter.jpg" }
+                { "nome" : "Slider 1", "img" : "https://www.anuncioemfoco.com.br/imagens/anuncios/120715060345/galeria_3412_0_bonsai-sushi-lounge.jpg" },
+                { "nome" : "Slider 2", "img" : "http://www.eujacomi.com.br/wp-content/uploads/2010/05/pouletvalleedauge.jpg" },
+                { "nome" : "Slider 3", "img" : "https://www.anuncioemfoco.com.br/imagens/anuncios/120715060345/galeria_3412_0_bonsai-sushi-lounge.jpg" }
             ]
         },
         {
             "cat" : "Música",
             "itens" : [
-                { "nome" : "Slider 1", "img" : "https://loremflickr.com/cache/resized/834_28455079347_6a58f0b1af_h_1280_720_nofilter.jpg" },
-                { "nome" : "Slider 2", "img" : "https://loremflickr.com/cache/resized/1867_43585682775_36a63085eb_h_1280_720_nofilter.jpg" },
-                { "nome" : "Slider 3", "img" : "https://loremflickr.com/cache/resized/880_41484160402_b0e95edd59_h_1280_720_nofilter.jpg" }
+                { "nome" : "Slider 1", "img" : "https://www.anuncioemfoco.com.br/imagens/anuncios/120715060345/galeria_3412_0_bonsai-sushi-lounge.jpg" },
+                { "nome" : "Slider 2", "img" : "http://www.eujacomi.com.br/wp-content/uploads/2010/05/pouletvalleedauge.jpg" },
+                { "nome" : "Slider 3", "img" : "https://www.anuncioemfoco.com.br/imagens/anuncios/120715060345/galeria_3412_0_bonsai-sushi-lounge.jpg" }
             ]
         }
     ]

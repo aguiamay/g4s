@@ -1,8 +1,9 @@
 {
     "sliderPrincipal" : [
-        { "nome" : "Slider 1", "img" : "https://radio93fm.com.br/wp-content/uploads/2017/10/culin%C3%A1ria-brasileira.jpg" },
-	{ "nome" : "Slider 2", "img" : "http://www.eujacomi.com.br/wp-content/uploads/2010/05/pouletvalleedauge.jpg" },
-	{ "nome" : "Slider 3", "img" : "https://www.anuncioemfoco.com.br/imagens/anuncios/120715060345/galeria_3412_0_bonsai-sushi-lounge.jpg" }
+        { "nome" : "Slider 1", "img" : "https://st2.depositphotos.com/2172605/6665/i/950/depositphotos_66654751-stock-photo-three-chili-hot-dogs-and.jpg" },
+	{ "nome" : "Slider 2", "img" : "https://st2.depositphotos.com/3889193/9110/i/950/depositphotos_91105856-stock-photo-young-couple-at-the-cinema.jpg" },
+	{ "nome" : "Slider 3", "img" : "https://st3.depositphotos.com/11433364/15303/i/1600/depositphotos_153030308-stock-photo-couple-in-love-having-lunch.jpg" }
+	{ "nome" : "Slider 4", "img" : "https://static5.depositphotos.com/1037987/478/i/450/depositphotos_4788943-stock-photo-family-having-lunch-together-at.jpg" }
     ],
     "sliderCategorias" : [
         {
